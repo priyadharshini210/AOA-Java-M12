@@ -14,8 +14,8 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 4. Increase the child pointer only when a cookie can satisfy that child’s greed.  
 5. Return the total number of children successfully matched with cookies.
 
-### Developed By: Abdur Rahman Basil A H
-### Register Number: 212223040002
+### Developed By: PRIYADHARSHINI P
+### Register Number: 212223240128
 
 ## Program:
 ```java
