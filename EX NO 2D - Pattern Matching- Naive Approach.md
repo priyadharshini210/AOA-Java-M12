@@ -1,5 +1,5 @@
 # EX 2D Pattern Matching using Naive Approach.
-## DATE: 14-10-2025
+## DATE: 4-09-2025
 ## AIM:
 To write a Java program to for given constraints.  
 Given text string with length n and a pattern with length m, the task is to print all occurrences of the pattern in the text.  
