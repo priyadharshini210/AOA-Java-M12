@@ -16,8 +16,8 @@ If it is not possible to reach the end, return -1.
 4. Continue expanding the maximum jump window as long as reachable.  
 5. If the loop finishes without failing, the last index is reachable.
 
-### Developed By : Abdur Rahman Basil A H
-### Register Number : 212223040002
+### Developed By : PRIYADHARSHINI P
+### Register Number : 212223240128
 
 
 ## Program:
