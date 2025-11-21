@@ -1,5 +1,5 @@
 # EX 2C Job Sequencing using Greedy Approach
-## DATE: 14-10-2025
+## DATE: 1/09/2025
 
 ## AIM:
 To write a Java program for given constraints.
